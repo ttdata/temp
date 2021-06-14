@@ -1,0 +1,6 @@
+{ 
+    "LINKGEAR_DEV_URL" : "https://ttdata.life/idp",
+    "LINKGEAR_CHAIN_URL": "https://ttdata.life/fapi",
+    "LINKGEAR_DEV_URL2" : "http://121.41.55.220:7961",
+    "LINKGEAR_CHAIN_URL2": "http://121.41.55.220:7061"
+}
